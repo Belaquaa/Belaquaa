@@ -15,11 +15,11 @@
 [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,git,docker,kubernetes,jenkins,kafka,rabbitmq,bots,maven,idea)](https://skills.thijs.gg)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladdossik&show_icons=true&locale=en&layout=compact" alt="vladdossik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belaquaa&show_icons=true&locale=en&layout=compact" alt="belaquaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladdossik&show_icons=true&locale=en" alt="vladdossik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belaquaa&show_icons=true&locale=en" alt="belaquaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladdossik&" alt="vladdossik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belaquaa&" alt="belaquaa" /></p>
 
 
 
