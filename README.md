@@ -12,7 +12,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,git,docker,kubernetes,jenkins,kafka,rabbitmq,bots,maven,idea)](https://skills.thijs.gg)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belaquaa&show_icons=true&locale=en&layout=compact" alt="belaquaa" /></p>
@@ -25,6 +24,7 @@
 
 <!--
 **Belaquaa/Belaquaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,git,docker,kubernetes,jenkins,kafka,rabbitmq,bots,maven,idea)](https://skills.thijs.gg)
 
 Here are some ideas to get you started:
 
