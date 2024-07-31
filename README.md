@@ -16,10 +16,3 @@
 
 | ![](https://github-readme-stats.vercel.app/api?username=a2ys&show_icons=true&locale=en&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=a2ys&theme=github_dark) |
 |-|-|
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://twitter.com/Miracle1554702" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="belaquaa" height="30" width="40" /></a>
-  <a href="https://t.me/belaquaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="belaquaa" height="30" width="40" /></a>
-</p>
