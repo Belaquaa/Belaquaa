@@ -11,5 +11,5 @@
 <br>
 
 
-| ![](https://github-readme-stats.vercel.app/api?username=a2ys&show_icons=true&locale=en&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=a2ys&theme=github_dark) |
+| ![](https://github-readme-stats.vercel.app/api?username=belaquaa&show_icons=true&locale=en&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=belaquaa&theme=github_dark) |
 |-|-|
