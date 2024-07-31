@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Vlad!</h1>
-<h3 align="center">Backend engineer</h3>
-
 <p align="center">
 
   <img align="center" src="https://raw.githubusercontent.com/belaquaa/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
